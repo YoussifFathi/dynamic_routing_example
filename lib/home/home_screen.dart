@@ -1,4 +1,4 @@
-import 'package:dynamic_routing/dynamic_routing.dart';
+import 'package:flutter_dynamic_routing/flutter_dynamic_routing.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:test_dynamic_routing_package/home/home_controller.dart';

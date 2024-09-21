@@ -1,4 +1,4 @@
-import 'package:dynamic_routing/dynamic_routing.dart';
+import 'package:flutter_dynamic_routing/flutter_dynamic_routing.dart';
 import 'package:flutter/material.dart';
 
 class ScreenFive extends StatelessWidget {
